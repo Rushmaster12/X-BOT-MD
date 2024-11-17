@@ -131,5 +131,6 @@
 * [`EX-KRIZ`](https://github.com/EX-KRIZ)
 * [`VIPER`](https://github.com/Viper-X0)
 * [`KICHU`](https://github.com/KichuExe)
+* [`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪`](https://github.com/Rushmaster12)
  </details>
  
